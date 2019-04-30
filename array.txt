@@ -1,0 +1,9 @@
+for(Track track : tracks)
+1. Type stored in array list
+2. object name
+3. ArrayList
+
+for(int i = 0; i<10,i++)
+
+while()
+Checks a condition each time
